@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Jaccys Portfolio</b></h1>
+  <h1><b>Jaccy's Portfolio</b></h1>
 </div>
 
 This is a portfolio website, built with HTML, CSS, JavaScript, and React, serves as a dynamic and visually appealing platform to showcase my skills and experience as a developer. It features clean code and responsive design, ensuring a seamless browsing experience across devices. It also includes links to my online profiles, allowing visitors to explore my code repositories and professional achievements. Overall, my portfolio website effectively highlights my expertise and serves as a compelling showcase of my work.
@@ -10,12 +10,14 @@ This is a portfolio website, built with HTML, CSS, JavaScript, and React, serves
 
 ['View Here']()
 
+
 # Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 - Reactjs
+
 
 # Getting Started
 
@@ -54,13 +56,16 @@ You require:
 - Twitter: [@jacinta_ngwu](https://twitter.com/jacinta_ngwu)
 - LinkedIn: [jacinta_ngwu](https://www.linkedin.com/in/jacintangwu/)
 
+
 # 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check for issues and contribute [issues page](https://github.com/JacintaNgwu/jaccy-portfolio/issues)
 
+
 # Show your support
 Give a ⭐️ if you like this project!
+
 
 # 📝 License
 This project is [MIT](./MIT.md) licensed.
