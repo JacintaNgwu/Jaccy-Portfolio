@@ -10,14 +10,14 @@ This is a portfolio website, built with HTML, CSS, JavaScript, and React, serves
 
 ['View Here']()
 
-## Tech Stack
+# Tech Stack
 
 - HTML
 - CSS
 - JavaScript
 - Reactjs
 
-## Getting Started
+# Getting Started
 
 To get a local copy and running follow the following steps.
 
@@ -37,7 +37,7 @@ To get a local copy and running follow the following steps.
 
     npm start
 
-# Prerequisities
+## Prerequisities
 
 You require:
 
@@ -46,7 +46,7 @@ You require:
 3. A text editor ( VScode, Sublime, Atom etc) to code your project.  
 
 
-## Author
+# Author
 
 👤 **Jacinta Ngwu**
 
@@ -54,13 +54,13 @@ You require:
 - Twitter: [@jacinta_ngwu](https://twitter.com/jacinta_ngwu)
 - LinkedIn: [jacinta_ngwu](https://www.linkedin.com/in/jacintangwu/)
 
-## 🤝 Contributing
+# 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check for issues and contribute [issues page](https://github.com/JacintaNgwu/jaccy-portfolio/issues)
 
-## Show your support
+# Show your support
 Give a ⭐️ if you like this project!
 
-## 📝 License
+# 📝 License
 This project is [MIT](./MIT.md) licensed.
