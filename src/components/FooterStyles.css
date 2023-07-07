@@ -1,0 +1,19 @@
+.footer {
+  border-top: 2px solid #fff;
+  padding: 1rem 0;
+}
+
+.footer p {
+  text-align: center;
+}
+
+.footer div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.footer div a {
+  margin: 0 0.5rem;
+}
