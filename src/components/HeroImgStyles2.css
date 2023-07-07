@@ -1,0 +1,104 @@
+.hero-img {
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.hero-img::before {
+  content: "";
+  background-image: url('../../src/assests/bg2.avif');
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  opacity: 0.5;
+}
+
+.heading {
+  width: 100%;
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 15rem;
+  margin-bottom: 2rem;
+}
+
+.heading p {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  font-style: italic;
+  word-spacing: 5px;
+  line-height: 1.5;
+  text-align: center;
+  padding: 0 5rem;
+}
+
+.btn {
+  margin: 3rem 30rem;
+}
+
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+  margin: 2rem 5rem;
+  color: #fff;
+  background-color: #1a1919;
+  border-radius: 30px;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(190, 179, 179, 0.5);
+}
+
+.skills-title {
+  margin: 1rem;
+}
+
+.skills-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.skills-item {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  border: 2px solid rgb(126, 64, 41);
+  padding: 0.5rem 1rem;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 640px) {
+  .heading h1 {
+    font-size: 1.5rem;
+  }
+
+  .heading p {
+    font-size: 0.8rem;
+    margin: 1rem 0 0 0;
+    padding: 0 1rem;
+  }
+
+  .btn {
+    margin: 2rem 7.5rem;
+  }
+
+  .skills-container {
+    grid-template-columns: 1fr;
+    max-width: 70%;
+    margin: auto;
+  }
+}
