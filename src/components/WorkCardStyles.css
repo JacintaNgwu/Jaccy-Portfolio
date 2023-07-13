@@ -19,10 +19,18 @@
 .projects-card {
   background-color: #1a1919;
   padding: 1.2rem 1rem;
+  position: relative;
+  display: inline-block;
 }
 
 .projects-card img {
   width: 100%;
+  transition: 500ms ease;
+}
+
+.projects-card:hover img {
+  animation: none;
+  transform: scale(1.2);
 }
 
 .project-title {

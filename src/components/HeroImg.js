@@ -15,17 +15,21 @@ const HeroImg = () => (
 
     <div className="content">
       <h1>
-        HI, I'M JACINTA
+        HI, I &apos;M JACINTA
         <br />
         <span> WELCOME TO MY PORTFOLIO</span>
       </h1>
       <p>
-        I am a passionate and dedicated developer with a strong love for creating innovative, user-friendly website and mobile applications.
+        I am a passionate and dedicated developer with a strong love for creating
+        innovative, user-friendly website and mobile applications.
         <br />
-        I also possess a keen eye for design and user experience. I understand the importance of creating visually appealing and intuitive interfaces that leave a lasting impression on users.
-        {' '}
+        I also possess a keen eye for design and user experience. I understand
+        the importance of creating visually appealing and intuitive interfaces
+        that leave a lasting impression on users.
         <br />
-        As you explore my portfolio, you will find examples of my work, showcasing my ability to tackle complex problems and deliver elegant solutions.
+        As you explore my portfolio, you will find examples of my work,
+        showcasing my ability to tackle complex problems and deliver elegant
+        solutions.
       </p>
 
       <div>
